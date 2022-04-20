@@ -5,18 +5,22 @@
 // This is where the vast majority of your CSS code goes.
 
 // Font icon class
+.fa {
+  font-family: FontAwesome, fontawesome-webfont;
+}
+
 .fab {
-  font-family: 'Font Awesome 5 Brands', 'fa-brands-400';
+  font-family: 'Font Awesome 6 Brands', 'fa-brands-400';
   font-weight: 400;
 }
 
 .fas {
-  font-family: 'Font Awesome 5 Free', 'fa-solid-900';
+  font-family: 'Font Awesome 6 Free', 'fa-solid-900';
   font-weight: 900;
 }
 
 .far {
-  font-family: 'Font Awesome 5 Free', 'fa-regular-400';
+  font-family: 'Font Awesome 6 Free', 'fa-regular-400';
   font-weight: 400;
 }
 
